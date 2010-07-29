@@ -1,0 +1,5 @@
+= VIM personal files and configurations
+
+* Snippets
+* Rails VIM
+* And more Plugins
